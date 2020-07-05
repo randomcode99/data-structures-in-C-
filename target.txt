@@ -1,0 +1,6 @@
+stack
+queue
+linked list
+tree-biniary search tree, heaps, n-ary tree
+graph
+hash
